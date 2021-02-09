@@ -1,3 +1,4 @@
+#######################################################################
 #### Simple Example of showing correct answers in tables
 
 # variable a1 is from the source , which is the cell that is referenced
@@ -18,8 +19,7 @@ cellErrorMessage(2,2):
   when not(c1 = 1) "This isn't quite right."
   otherwise ""
   
-  
-  
+#######################################################################  
 #### Example showing a hint for the student if a particular misconception is detected.
 
 # variable a3 is taken from the cell that is referenced
